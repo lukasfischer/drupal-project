@@ -9,6 +9,9 @@
             "role": ""
         }
     ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
     "repositories": [
         {
             "type": "composer",
