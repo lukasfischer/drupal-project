@@ -3,6 +3,7 @@
     "description": "Project template for Drupal 8 projects with Composer, Phing and Behat",
     "type": "project",
     "license": "GPL-2.0+",
+
     "authors": [
         {
             "name": "",
@@ -10,7 +11,8 @@
         }
     ],
     "config": {
-        "vendor-dir": "vendor"
+        "vendor-dir": "vendor",
+        "bin-dir": "vendor/bin"
     },
     "repositories": [
         {
